@@ -1,0 +1,11 @@
+100000| transferMoney| 24| Fri Oct 28 20:21:39 2022
+100000| UpTheBalance| 500000| Fri Oct 28 20:21:58 2022
+100000| PayBePhone| 500100| Fri Oct 28 20:22:36 2022
+100000| UpTheBalance| 10000000| Fri Oct 28 20:23:15 2022
+100000| WithdrawMoney| 8| Fri Oct 28 20:23:28 2022
+100000| UpTheBalance| 3| Fri Oct 28 20:23:41 2022
+100000| PayBePhone| 9999995| Fri Oct 28 20:24:30 2022
+100000| UpTheBalance| 999999999| Fri Oct 28 20:27:20 2022
+100000| transferMoney| 999999| Fri Oct 28 20:28:00 2022
+100000| transferMoney| 10000| Fri Oct 28 20:29:58 2022
+100000| transferMoney| 60| Fri Oct 28 20:30:18 2022
